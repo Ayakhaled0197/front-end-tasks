@@ -9,7 +9,4 @@
   <li>
     create a loop that prints odd numbers in range from 0 
   </li>
-  <li>
-    
-  </li>
 </ol>
