@@ -35,14 +35,6 @@ Colors matching brackets for better readability in complex JavaScript code.
   </ul>
   </li>
 
-  <li> Bracket Pair Color DLW
-  <ul>
-    <li>
-Colors matching brackets for better readability in complex JavaScript code.
-    </li>
-  </ul>
-  </li>
-
    <li>Better Comments
   <ul>
     <li>
@@ -51,6 +43,13 @@ Improves the readability of comments in your JavaScript code with color-coded an
   </ul>
   </li>
 
-  
+<li>Auto Rename Tag
+  <ul>
+    <li>
+automatically renames the matching HTML/JSX tag when you edit the opening or closing tag.
+    </li>
+  </ul>
+  </li>
+
   
 </ol>
